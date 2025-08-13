@@ -1,0 +1,30 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#root{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 450px;
+    height: 150px;
+    padding: 20px 10px;
+    background-color: rgb(218, 198, 172);
+    text-align: center;
+    justify-content: center;
+    
+    /* justify-self: unset;
+     */
+    /* width: 500px; */
+}
+
+
+.second{
+  font-size: 20px;
+}
